@@ -1,0 +1,26 @@
+html{
+    background-color: #B8FFF9;
+}
+body{
+    height: 100%;
+    text-align: center;
+}
+form{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #B8FFF9;
+}
+img{
+    border-radius: 100%;
+}
+.form-signin
+{
+    margin-top: 10%;
+}
+.submit{
+margin-top: 50px;
+margin-bottom: 10%;
+}
+.footer{
+    margin:50px auto;
+    text-align: center;
+}
